@@ -1,0 +1,9 @@
+Building SmashCoinLite
+
+See doc/readme-qt.rst for instructions on building SmashCoinLite-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SmashCoinLite.
+
+See doc/build-*.txt for instructions on building smashcoinlited,
+the intended-for-services, no-graphical-interface, reference
+implementation of SmashCoinLite.
